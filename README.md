@@ -133,21 +133,19 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 ## OUTPUT
 
-![image](https://github.com/Meyyappan-T/Linux-IPC-Shared-memory/assets/128804366/9ec37e0b-f70d-41aa-90bc-cbe0fbf92746)
+![image](https://github.com/Meyyappan-T/Linux-IPC-Shared-memory/assets/128804366/2d5a7b34-a9ab-42a1-86c8-ac1d4a2e37c8)
 
 
 ### ./shmry2.o
 
 ## OUTPUT
-
-![image](https://github.com/Meyyappan-T/Linux-IPC-Shared-memory/assets/128804366/2d8365e0-31e6-4406-a526-d42db89ca564)
+![image](https://github.com/Meyyappan-T/Linux-IPC-Shared-memory/assets/128804366/1ff296ad-3f93-4b90-8d55-1db4b02890b4)
 
 
 ### ipcs
 
 ## OUTPUT
-
-![image](https://github.com/Meyyappan-T/Linux-IPC-Shared-memory/assets/128804366/b4b7eb7a-f5e0-4ec9-a9f6-33498d598cda)
+![image](https://github.com/Meyyappan-T/Linux-IPC-Shared-memory/assets/128804366/ff757ea6-8dfe-4e78-9523-360fcf3cebe4)
 
 # RESULT:
 The program is executed successfully.
